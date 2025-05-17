@@ -15,8 +15,8 @@ This is a simple 3D flying game developed using OpenGL and GLUT in C++. The game
 *   Keyboard controls for plane movement and rotation (simulated by environment translation).
 *   Includes a basic `RGBpixmap` class for potential texture loading (though not fully utilized for scene textures in the current `main.cpp`).
 
-![START](path/to/your/image.png)
-![GAMEPLAY](path/to/your/image.png)
+![START](start.png)
+![GAMEPLAY](GAMEPLAY.png)
 ## Requirements
 
 To build and run this project, you will need:
