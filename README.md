@@ -16,6 +16,7 @@ This is a simple 3D flying game developed using OpenGL and GLUT in C++. The game
 *   Includes a basic `RGBpixmap` class for potential texture loading (though not fully utilized for scene textures in the current `main.cpp`).
 
 ![START](start.png)
+![GAME](game.png)
 ![GAMEPLAY](GAMEPLAY.png)
 ## Requirements
 
